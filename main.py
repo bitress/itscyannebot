@@ -71,5 +71,5 @@ async def sendDM(ctx, user: discord.User, *, message=""):
     await user.send(f"{message}")
 
 
-token = ("MTAzNjI1MjMyNjAxMDMwNjU5MQ.GBDM6X.JxP7dVPT__GvGrbpnajaLZFwLtuZapS-3L3OwU")
+token = ("TOKEN")
 bot.run(token)
